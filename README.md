@@ -1,6 +1,6 @@
 # MarbleMania
 
-This assignment was made as part of my CSE 4308 class.
+This code was written as part of my CSE 4308 class.
 
 Inshaad Merchant
 
